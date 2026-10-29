@@ -1,4 +1,4 @@
-# IST Project: Anticancer Peptide Prediction for Lung Cancer
+# Anticancer Peptide Prediction for Lung Cancer
 
 An end-to-end machine-learning research workflow for classifying lung-cancer anticancer peptides (ACPs) using physicochemical descriptors, frozen ESM-2 protein-language-model embeddings, traditional classifiers, sequence-similarity audits, calibration analysis, and residue-level interpretation.
 
